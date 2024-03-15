@@ -1,5 +1,5 @@
 # Animated Sleeping Cat
-This project showcases an animated sleeping cat created using HTML and CSS. The code provides a delightful visual representation of a cat in a sleeping pose with animated elements such as its tail, mouth, and a thought bubble .
+This project showcases an animated sleeping cat created using HTML and CSS. The code provides a delightful visual representation of a cat in a sleeping pose with animated elements such as its tail, mouth, and a thought bubble.
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Sleeping-Cat/assets/59678435/76d88adb-eb77-422a-95b6-b819823bf165)
